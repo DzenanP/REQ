@@ -2,3 +2,4 @@ Yes!
 Version1
 Version2
 Änderung in der Integrationsphase
+Conflict change
